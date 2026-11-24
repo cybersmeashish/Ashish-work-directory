@@ -1,0 +1,275 @@
+{
+  "repository": "cybersmeashish/Ashish-work-directory",
+  "title": "Ashish work directory",
+  "created_on": "2026-11-24",
+  "groups": 7,
+  "capabilities": 33,
+  "taxonomy_source": "User-provided Cybersecurity Vendor Platform Breadth image, attributed to Sam Akroyd and dated 23 November 2026",
+  "stage": "Capability workspaces initialized; no completed work claims",
+  "entries": [
+    {
+      "id": 1,
+      "group": "Endpoint and workload",
+      "capability": "Endpoint protection / EDR",
+      "folder": "01-endpoint-protection-edr",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 2,
+      "group": "Endpoint and workload",
+      "capability": "XDR",
+      "folder": "02-xdr",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 3,
+      "group": "Endpoint and workload",
+      "capability": "Mobile threat defence",
+      "folder": "03-mobile-threat-defence",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 4,
+      "group": "Endpoint and workload",
+      "capability": "Cloud posture (CNAPP / CSPM)",
+      "folder": "04-cloud-posture-cnapp-cspm",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 5,
+      "group": "Endpoint and workload",
+      "capability": "Cloud workload protection",
+      "folder": "05-cloud-workload-protection",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 6,
+      "group": "Network and access",
+      "capability": "Firewall (NGFW / FWaaS)",
+      "folder": "06-firewall-ngfw-fwaas",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 7,
+      "group": "Network and access",
+      "capability": "Secure web gateway",
+      "folder": "07-secure-web-gateway",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 8,
+      "group": "Network and access",
+      "capability": "ZTNA",
+      "folder": "08-ztna",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 9,
+      "group": "Network and access",
+      "capability": "CASB / SaaS security",
+      "folder": "09-casb-saas-security",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 10,
+      "group": "Network and access",
+      "capability": "SD-WAN",
+      "folder": "10-sd-wan",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 11,
+      "group": "Network and access",
+      "capability": "Enterprise browser",
+      "folder": "11-enterprise-browser",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 12,
+      "group": "Network and access",
+      "capability": "Network detection (NDR)",
+      "folder": "12-network-detection-ndr",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 13,
+      "group": "Network and access",
+      "capability": "DNS security",
+      "folder": "13-dns-security",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 14,
+      "group": "Network and access",
+      "capability": "WAF / WAAP & DDoS",
+      "folder": "14-waf-waap-ddos",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 15,
+      "group": "Network and access",
+      "capability": "Email security",
+      "folder": "15-email-security",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 16,
+      "group": "Identity",
+      "capability": "Workforce IdP / SSO / MFA",
+      "folder": "16-workforce-idp-sso-mfa",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 17,
+      "group": "Identity",
+      "capability": "Privileged access (PAM)",
+      "folder": "17-privileged-access-pam",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 18,
+      "group": "Identity",
+      "capability": "Identity governance (IGA)",
+      "folder": "18-identity-governance-iga",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 19,
+      "group": "Identity",
+      "capability": "Identity threat detection (ITDR)",
+      "folder": "19-identity-threat-detection-itdr",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 20,
+      "group": "Identity",
+      "capability": "Machine & agent identity",
+      "folder": "20-machine-and-agent-identity",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 21,
+      "group": "Data",
+      "capability": "Data loss prevention",
+      "folder": "21-data-loss-prevention",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 22,
+      "group": "Data",
+      "capability": "Data security posture (DSPM)",
+      "folder": "22-data-security-posture-dspm",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 23,
+      "group": "Security operations",
+      "capability": "SIEM",
+      "folder": "23-siem",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 24,
+      "group": "Security operations",
+      "capability": "SOAR / agentic SOC",
+      "folder": "24-soar-agentic-soc",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 25,
+      "group": "Security operations",
+      "capability": "Threat intelligence",
+      "folder": "25-threat-intelligence",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 26,
+      "group": "Security operations",
+      "capability": "Managed detection (MDR)",
+      "folder": "26-managed-detection-mdr",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 27,
+      "group": "Security operations",
+      "capability": "Incident response services",
+      "folder": "27-incident-response-services",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 28,
+      "group": "Exposure and application risk",
+      "capability": "Exposure / vulnerability management",
+      "folder": "28-exposure-vulnerability-management",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 29,
+      "group": "Exposure and application risk",
+      "capability": "External attack surface",
+      "folder": "29-external-attack-surface",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 30,
+      "group": "Exposure and application risk",
+      "capability": "AppSec / ASPM / code",
+      "folder": "30-appsec-aspm-code",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 31,
+      "group": "Emerging and adjacent",
+      "capability": "AI security (models, apps, agents)",
+      "folder": "31-ai-security-models-apps-agents",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 32,
+      "group": "Emerging and adjacent",
+      "capability": "OT / IoT security",
+      "folder": "32-ot-iot-security",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    },
+    {
+      "id": 33,
+      "group": "Emerging and adjacent",
+      "capability": "IT observability",
+      "folder": "33-it-observability",
+      "stage": "Workspace initialized",
+      "source": "Capability label in user-provided screenshot"
+    }
+  ]
+}

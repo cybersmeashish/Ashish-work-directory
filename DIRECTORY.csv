@@ -1,0 +1,34 @@
+id,group,capability,folder,stage
+1,Endpoint and workload,Endpoint protection / EDR,01-endpoint-protection-edr,Workspace initialized
+2,Endpoint and workload,XDR,02-xdr,Workspace initialized
+3,Endpoint and workload,Mobile threat defence,03-mobile-threat-defence,Workspace initialized
+4,Endpoint and workload,Cloud posture (CNAPP / CSPM),04-cloud-posture-cnapp-cspm,Workspace initialized
+5,Endpoint and workload,Cloud workload protection,05-cloud-workload-protection,Workspace initialized
+6,Network and access,Firewall (NGFW / FWaaS),06-firewall-ngfw-fwaas,Workspace initialized
+7,Network and access,Secure web gateway,07-secure-web-gateway,Workspace initialized
+8,Network and access,ZTNA,08-ztna,Workspace initialized
+9,Network and access,CASB / SaaS security,09-casb-saas-security,Workspace initialized
+10,Network and access,SD-WAN,10-sd-wan,Workspace initialized
+11,Network and access,Enterprise browser,11-enterprise-browser,Workspace initialized
+12,Network and access,Network detection (NDR),12-network-detection-ndr,Workspace initialized
+13,Network and access,DNS security,13-dns-security,Workspace initialized
+14,Network and access,WAF / WAAP & DDoS,14-waf-waap-ddos,Workspace initialized
+15,Network and access,Email security,15-email-security,Workspace initialized
+16,Identity,Workforce IdP / SSO / MFA,16-workforce-idp-sso-mfa,Workspace initialized
+17,Identity,Privileged access (PAM),17-privileged-access-pam,Workspace initialized
+18,Identity,Identity governance (IGA),18-identity-governance-iga,Workspace initialized
+19,Identity,Identity threat detection (ITDR),19-identity-threat-detection-itdr,Workspace initialized
+20,Identity,Machine & agent identity,20-machine-and-agent-identity,Workspace initialized
+21,Data,Data loss prevention,21-data-loss-prevention,Workspace initialized
+22,Data,Data security posture (DSPM),22-data-security-posture-dspm,Workspace initialized
+23,Security operations,SIEM,23-siem,Workspace initialized
+24,Security operations,SOAR / agentic SOC,24-soar-agentic-soc,Workspace initialized
+25,Security operations,Threat intelligence,25-threat-intelligence,Workspace initialized
+26,Security operations,Managed detection (MDR),26-managed-detection-mdr,Workspace initialized
+27,Security operations,Incident response services,27-incident-response-services,Workspace initialized
+28,Exposure and application risk,Exposure / vulnerability management,28-exposure-vulnerability-management,Workspace initialized
+29,Exposure and application risk,External attack surface,29-external-attack-surface,Workspace initialized
+30,Exposure and application risk,AppSec / ASPM / code,30-appsec-aspm-code,Workspace initialized
+31,Emerging and adjacent,"AI security (models, apps, agents)",31-ai-security-models-apps-agents,Workspace initialized
+32,Emerging and adjacent,OT / IoT security,32-ot-iot-security,Workspace initialized
+33,Emerging and adjacent,IT observability,33-it-observability,Workspace initialized
